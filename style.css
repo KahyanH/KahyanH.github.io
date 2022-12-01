@@ -1,0 +1,14 @@
+main label {
+    display: flex;
+}
+
+main input {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+main textarea {
+    width: 100%;
+    height: 100px;
+    margin-bottom: 20px;
+}
